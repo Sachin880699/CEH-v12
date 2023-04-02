@@ -12,3 +12,27 @@ Tool Name : theHarvester
 
 USE : theHarvester -d eccouncil -l 200 -b linkdin
 
+# Gather  Information of a target website using photon
+
+Install tool CMD : sudo apt-get install photon
+
+use : python3 photon.py -u http://www.certifiedhacker.com
+
+use : python3 poton.py -u http://www.certifiedhacker.com -l 3 -t 200 --wayback
+
+
+# Mirror a target website using HTTRACK website copier
+
+
+# use Email Tracking Pro to track email info
+
+
+
+# perform whois lookup using domaintools
+
+https://whois.domaintools.com/
+
+# find trace route
+
+CMD : traceroute www.certifiedhacker.com
+
